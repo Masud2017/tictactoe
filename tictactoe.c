@@ -1,7 +1,7 @@
 /**************************Introduction to this program*********************************
 
 This program is a game named Tic tac toe;
-Made/cloned by Md.Masud karim;
+cloned by Md.Masud karim;
 E-mail: msmasud578@gmail.com;
 Mobile: 01638-901140;
 Time and date of making this program: Time: 5:52 AM Date: 26-05-2018
