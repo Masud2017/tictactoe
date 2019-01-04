@@ -1,10 +1,12 @@
 /**************************Introduction to this program*********************************
 
 This program is a game named Tic tac toe;
-cloned by Md.Masud karim;
+cloned by Md.Masud karim from a book (reason: for my research purpose);
 E-mail: msmasud578@gmail.com;
 Mobile: 01638-901140;
 Time and date of making this program: Time: 5:52 AM Date: 26-05-2018
+
+** I can't take any credit for this project i just use this code for demonstrate a best coding practice. **
 
 ***************************Program should start from here******************************/
 #include<stdio.h>
