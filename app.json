@@ -1,0 +1,20 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+    "token": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "name": "tictactoe",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
